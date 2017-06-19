@@ -6,7 +6,7 @@ VERSION="1.4.3"
 
 # default token and chatid
 # or run BaTbot with option: -t <token>
-TELEGRAMTOKEN="<your telegram token>";
+TELEGRAMTOKEN="448058530:AAH7mMXwEZgOjFz0HKWxnTyAbHu2mloexb4";
 
 # how many seconds between check for new messages
 # or run Batbot with option: -c <seconds>
